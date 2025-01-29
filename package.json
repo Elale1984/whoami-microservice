@@ -6,9 +6,10 @@
     "start": "node --watch index.js"
   },
   "keywords": [
-    "api",
-    "freeCodeCamp",
-    "whoami"
+    "node",
+    "whoami",
+    "express",
+    "freeCodeCamp"
   ],
   "author": "Edward Lale",
   "license": "MIT",
