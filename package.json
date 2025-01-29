@@ -1,0 +1,22 @@
+{
+  "name": "whoami-microservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [
+    "api",
+    "freeCodeCamp",
+    "whoami"
+  ],
+  "author": "Edward Lale",
+  "license": "MIT",
+  "type": "commonjs",
+  "description": "freeCodeCamp challenge for api that returns the ip address, language, and software when api endpoint /api/whoami is called",
+  "dependencies": {
+    "express": "^4.12.4",
+    "dotenv": "^16.4.7",
+    "cors": "^2.8.0"
+  }
+}
